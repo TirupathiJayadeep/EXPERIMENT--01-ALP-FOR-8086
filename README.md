@@ -1,7 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086
 ## Name : Tirupathi Jayadeep
-# Roll no : 212223240169
-# Date of experiment : 22.08.2024
+## Roll no : 212223240169
+## Date of experiment : 22.08.2024
 
 
 
